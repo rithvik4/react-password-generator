@@ -30,8 +30,6 @@ This is a simple password generator built using React. It allows users to create
 4. Click the "Copy Password" button to copy the generated password to your clipboard.
 
 ## Screenshots
-![password-generator](https://github.com/rithvik4/react-password-generator/assets/105736916/1b822725-8034-426f-9e2b-2209aceb8c91)
-
 
 
 ## Contributing
