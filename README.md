@@ -10,7 +10,7 @@ This is a simple password generator built using React. It allows users to create
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/brithvik1/react-password-generator.git
+1. Clone the repository: git clone https://github.com/rithvik4/react-password-generator
 
 
 2. Navigate to the project directory: cd react-password-generator
@@ -30,6 +30,8 @@ This is a simple password generator built using React. It allows users to create
 4. Click the "Copy Password" button to copy the generated password to your clipboard.
 
 ## Screenshots
+
+![password-generator](https://github.com/rithvik4/react-password-generator/assets/105736916/9e5869fe-989c-4d9a-98a6-3f5e4300cfa2)
 
 
 ## Contributing
